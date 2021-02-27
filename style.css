@@ -1,0 +1,24 @@
+.alpha {
+  background-color: black;
+  display: inline-block;
+  width: 100%;
+  color: white;
+  position: sticky;
+  top: -1px;
+  font-size: 30px;
+}
+.holder {
+  padding: 15px;
+}
+.name {
+  display: inline-block;
+  padding: 10px;
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+.phonebook {
+  width: max-content;
+}
+.number {
+  font-size: 20px;
+}
