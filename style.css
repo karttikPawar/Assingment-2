@@ -10,7 +10,7 @@
 .holder {
   padding: 15px;
 /*  OR the   */
-  margin-top: 15px;
+/*   margin-top: 15px; */
 }
 .name {
   display: inline-block;
